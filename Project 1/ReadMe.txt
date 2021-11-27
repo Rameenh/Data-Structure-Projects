@@ -1,0 +1,1 @@
+Java Version is JDK 13.0.2 and IDE is Intellij Idea 2020.2.1 (Community Edition)
